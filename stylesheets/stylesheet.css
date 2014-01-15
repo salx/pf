@@ -254,6 +254,56 @@ form {
   padding: 20px;
 }
 
+#frame {  
+    -ms-zoom: 0.8;
+    -ms-transform-origin: 0 0;
+    -moz-transform: scale(0.8);
+    -moz-transform-origin: 0px 50px;
+    -o-transform: scale(0.8);
+    -o-transform-origin: 0px 50px;
+    -webkit-transform: scale(0.8);
+    -webkit-transform-origin: 0 0;
+}
+
+#frame {  
+    -ms-zoom: 0.8;
+    -ms-transform-origin: 0 0;
+    -moz-transform: scale(0.8);
+    -moz-transform-origin: 0px 50px;
+    -o-transform: scale(0.8);
+    -o-transform-origin: 0px 50px;
+    -webkit-transform: scale(0.8);
+    -webkit-transform-origin: 0 0;
+}
+
+#frame {
+    width: 1230px;
+    height: 530px;
+    overflow: hidden;
+}
+#frame2 {  
+    -ms-zoom: 0.8;
+    -ms-transform-origin: 0 0;
+    -moz-transform: scale(0.8);
+    -moz-transform-origin: 0px 50px;
+    -o-transform: scale(0.8);
+    -o-transform-origin: 0px 50px;
+    -webkit-transform: scale(0.8);
+    -webkit-transform-origin: 0 0;
+}
+
+#frame2 {
+    width: 1230px;
+    height: 770px;
+    overflow: hidden;
+}
+/*#wrap {  
+    width: 430px;
+    height: 200px;
+    padding: 0;
+    overflow: hidden;
+}*/
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
